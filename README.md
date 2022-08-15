@@ -8,7 +8,7 @@ Repository สำหรับจัดเก็บ(ร่าง)เอกสา�
 1. ขั้นตอนการขอใช้งาน 
 
 ### REDCap Documents
-1. [ข้อตกลงการใช้งานสำหรับหัวหน้าโครงการ](redcap/00_redcap_agreement.md)
+1. [ข้อตกลงการใช้งานสำหรับหัวหน้าโครงการ](redcap/00_redcap_user_agreement.md)
 
 ## HPCC Cluster
 
