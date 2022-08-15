@@ -1,3 +1,5 @@
+# ข้อตกลงการใช้งานระบบ Research Electronic Data Capture (REDCap)
+
 ข้อตกลงการใช้งานระบบ Research Electronic Data Capture ซึ่งต่อไปนี้จะเรียกว่า REDCap ถูกทำขึ้นระหว่าง ศูนย์ความเป็นเลิศด้านชีวสารสนเทศ และ การบริหารจัดการข้อมูลคลินิก (BCDM) กับ โครงการ______ ซึ่งต่อไปนี้จะเรียกว่าคณะผู้วิจัย
 คณะผู้วิจัยยินดีปฏิบัติตามข้อตกลงในการใช้งานระบบ REDCap ดังต่อไปนี้
 
@@ -5,7 +7,7 @@
 
 "Study data were collected and managed using REDCap electronic data capture tools hosted at Siriraj Center of Excellence in Bioinformatics and Clinical Data Management (SICORE-BCDM), Faculty of Medicine Siriraj Hospital, Mahidol University. 1 REDCap (Research Electronic Data Capture) is a secure, web-based application designed to support data capture for research studies, providing 1) an intuitive interface for validated data entry; 2) audit trails for tracking data manipulation and export procedures; 3) automated export procedures for seamless data downloads to common statistical packages; and 4) procedures for importing data from external sources."
 
-1) Paul A. Harris, Robert Taylor, Robert Thielke, Jonathon Payne, Nathaniel Gonzalez, Jose G. Conde, Research electronic data capture (REDCap) - A metadata-driven methodology and workflow process for providing translational research informatics support, J Biomed Inform. 2009 Apr;42(2):377-81.
+*Paul A. Harris, Robert Taylor, Robert Thielke, Jonathon Payne, Nathaniel Gonzalez, Jose G. Conde, Research electronic data capture (REDCap) - A metadata-driven methodology and workflow process for providing translational research informatics support, J Biomed Inform. 2009 Apr;42(2):377-81.*
 
 2. คณะผู้วิจัยยินดีปฏิบัติตามข้อตกลงในการรักษาความปลอดภัยของระบบดังนี้
     1. รักษารหัสการใช้งาน (password) เป็นความลับ โดยไม่เปิดเผยหรือเผยแพร่ต่อบุคคลอื่น
